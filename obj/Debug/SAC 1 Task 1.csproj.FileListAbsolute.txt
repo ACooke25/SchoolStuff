@@ -1,0 +1,11 @@
+C:\Users\swimn\OneDrive\Documents\Software Development\SAC 1 Task 1\SAC 1 Task 1\obj\Debug\SAC 1 Task 1.csproj.AssemblyReference.cache
+C:\Users\swimn\OneDrive\Documents\Software Development\SAC 1 Task 1\SAC 1 Task 1\obj\Debug\SAC 1 Task 1.csproj.SuggestedBindingRedirects.cache
+C:\Users\swimn\OneDrive\Documents\Software Development\SAC 1 Task 1\SAC 1 Task 1\obj\Debug\SAC_1_Task_1.Form1.resources
+C:\Users\swimn\OneDrive\Documents\Software Development\SAC 1 Task 1\SAC 1 Task 1\obj\Debug\SAC_1_Task_1.Properties.Resources.resources
+C:\Users\swimn\OneDrive\Documents\Software Development\SAC 1 Task 1\SAC 1 Task 1\obj\Debug\SAC 1 Task 1.csproj.GenerateResource.cache
+C:\Users\swimn\OneDrive\Documents\Software Development\SAC 1 Task 1\SAC 1 Task 1\obj\Debug\SAC 1 Task 1.csproj.CoreCompileInputs.cache
+C:\Users\swimn\OneDrive\Documents\Software Development\SAC 1 Task 1\SAC 1 Task 1\bin\Debug\SAC 1 Task 1.exe.config
+C:\Users\swimn\OneDrive\Documents\Software Development\SAC 1 Task 1\SAC 1 Task 1\bin\Debug\SAC 1 Task 1.exe
+C:\Users\swimn\OneDrive\Documents\Software Development\SAC 1 Task 1\SAC 1 Task 1\bin\Debug\SAC 1 Task 1.pdb
+C:\Users\swimn\OneDrive\Documents\Software Development\SAC 1 Task 1\SAC 1 Task 1\obj\Debug\SAC 1 Task 1.exe
+C:\Users\swimn\OneDrive\Documents\Software Development\SAC 1 Task 1\SAC 1 Task 1\obj\Debug\SAC 1 Task 1.pdb
